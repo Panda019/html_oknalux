@@ -1,0 +1,36 @@
+.i-metro {
+    background-image: url("../images/icons/icon-metro.svg");
+    background-size: 100%;
+    display: inline-block;
+    width: 16px;
+    height: 11px;
+}
+.i-metro-white {
+    background-image: url("../images/icons/icon-metro-white.svg");
+    background-size: 100%;
+    display: inline-block;
+    width: 14px;
+    height: 9px;
+}
+
+.i-fb {
+    background-image: url("../images/icons/icon-fb.svg");
+    background-size: 100%;
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+}
+.i-twitter {
+    background-image: url("../images/icons/icon-twitter.svg");
+    background-size: 100%;
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+}
+.i-live-journal {
+    background-image: url("../images/icons/icon-live-journal.svg");
+    background-size: 100%;
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+}

@@ -1,0 +1,283 @@
+@media screen and (min-width: 1200px) and (max-width: 4000px) {
+    .action-item {
+        height: 130px;
+    }
+
+    .price-item {
+        height: 375px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    header.container {
+        font-size: 0.85em;
+    }
+
+    .nav-system-main .navbar-nav .nav-link {
+        padding-left: 1.4rem;
+        padding-right: 1.4rem;
+        font-size: 1.05em;
+    }
+
+    .brand-advert-text {
+        font-size: 0.75em;
+    }
+
+    .header-phone-item {
+        font-size: 0.80em;
+        line-height: 105%;
+    }
+
+    .header-phone-item .i-metro {
+        background-image: url("../images/icons/icon-metro.svg");
+        background-size: 100%;
+        display: inline-block;
+        width: 14px;
+        height: 10px;
+    }
+
+    .header-phone-index {
+        font-size: 1.56em;
+    }
+
+    .header-right-section .btn-sm {
+        padding: .15rem .4rem 0.20rem .4rem;
+        font-size: .7rem;
+        line-height: 1.5;
+    }
+
+    .footer-layout {
+        font-size: 0.85em;
+    }
+
+    .footer-nav-system .list-inline-item a {
+        color: #ffffff;
+        padding-left: 12px;
+        padding-right: 14px;
+    }
+
+    .footer-nav-system .list-inline-item a::after {
+        height: 9px;
+        margin-top: 3px;
+    }
+
+    .footer-col-item {
+        width: 19%;
+    }
+
+    .footer-col-item-last {
+        width: 24%;
+    }
+
+    .item-caption-index p {
+        font-size: 0.87em;
+    }
+
+    .item-caption-index-right {
+        margin-top: 7rem;
+    }
+
+    .header-left-section {
+        width: 19.667%;
+    }
+
+    .header-center-section {
+        width: 62.667%;
+    }
+
+    .header-right-section {
+        width: 17.667%;
+        line-height: 120%;
+    }
+
+    .catalogue-list .list-inline-item a {
+        padding-left: 0.6rem;
+        padding-right: 0.6rem;
+        border-right: 1px solid #818a91;
+        font-size: 0.75rem;
+    }
+
+    .price-item {
+        height: 370px;
+    }
+
+    .action-item {
+        height: 170px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .header-left-section {
+        padding-right: 0px;
+        margin-top: 18px;
+    }
+
+    .header-center-section {
+        padding-right: 0px;
+        width: 60.333333%;
+    }
+
+    .header-right-section {
+        margin-top: 10px;
+        width: 23%;
+    }
+
+    header.container {
+        font-size: 0.85em;
+    }
+
+    .nav-system-main .navbar-nav .nav-link {
+        padding-left: 0.82rem;
+        padding-right: 0.82rem;
+        font-size: 0.8em;
+    }
+
+    .nav-system-main .nav-item::before {
+        height: 10px;
+        margin-top: 8px;
+    }
+
+    .header-phone-index {
+        margin-top: 5px;
+        font-size: 1.5em;
+    }
+
+    .header-right-section .btn-sm {
+        font-size: .675rem;
+    }
+
+    .item-caption-index p {
+        font-size: 0.8em;
+    }
+
+    .item-caption-index-right {
+        margin-top: 5rem;
+    }
+
+    .footer-col-item {
+        margin-top: 20px;
+        font-size: 0.85em;
+        margin-bottom: 15px;
+    }
+
+    .list-inline-item:not(:last-child) {
+        margin-right: 0px;
+    }
+
+    .copyright-container {
+        font-size: 0.85em;
+    }
+
+    .counters-list {
+        margin-top: -35px;
+    }
+
+    .footer-col-item-last {
+        margin-bottom: 20px;
+    }
+
+    .footer-nav-system .list-inline {
+        float: none;
+    }
+
+    .footer-nav-system .list-inline-item a {
+        padding-left: 17px;
+        font-size: 0.87em;
+        margin-right: 0px;
+    }
+
+    .footer-nav-system .list-inline-item a::after {
+        display: none;
+    }
+
+    .action-item-img {
+        padding-right: 1rem;
+    }
+
+    .video-container {
+        margin-bottom: 1rem;
+    }
+
+    .card-block {
+        padding: .7rem;
+    }
+
+    .price-index {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .catalogue-list .list-inline-item a {
+        padding-left: 0.6rem;
+        padding-right: 0.6rem;
+        border-right: 1px solid #818a91;
+        font-size: 0.7rem;
+    }
+
+    .price-item {
+        height: 390px;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width: 479px) {
+    .catalogue-list .list-inline-item {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width: 767px) {
+
+    .item-caption-index {
+        display: none;
+    }
+
+    .bx-controls-direction {
+        display: none;
+    }
+
+    .card-block-container {
+        float: none;
+    }
+
+    .catalogue-list {
+        padding-right: 1rem;
+        padding-left: 1rem;
+    }
+
+    .catalogue-list .list-inline-item a {
+        padding-right: 0.5rem;
+        border-right: none;
+        text-decoration: underline;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width: 479px) {
+    .section-title h2 {
+        font-size: 0.85em;
+    }
+
+    .footer-col-item, .footer-col-item span, .footer-col-item-last, .copyright-container {
+        font-size: 0.85em;
+    }
+
+    .footer-col-item p:first-child {
+        margin-top: 15px;
+        line-height: 110%;
+    }
+
+    .counters-list {
+        text-align: center;
+        float: none;
+    }
+
+    .counters-list li:last-child {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width: 991px) {
+    .price-card {
+        height: auto;
+    }
+
+}
